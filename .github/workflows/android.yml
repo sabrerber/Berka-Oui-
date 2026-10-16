@@ -36,3 +36,4 @@ jobs:
         with:
           name: Berka-Oui-APK
           path: Berka-oui/app/build/outputs/apk/debug/app-debug.apk
+ 
